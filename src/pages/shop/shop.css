@@ -1,11 +1,22 @@
+/* html {
+  scroll-padding-top: 900px !important;
+}
+
+body{
+  margin-top: 80px !important;
+} */
+
 .shopTitle {
   margin-top: 70px;
+  padding: 15px;
   text-align: center;
   font-size: 40px;
 }
 
 .shopTitle h1{
   color: #f48669;
+  font-size: 45px !important;
+  font-weight: bolder;
 }
 
 .products {

@@ -43,6 +43,15 @@
   cursor: pointer;
 }
 
+.checkout button:hover {
+  background: #f05236;
+}
+
+.checkout button h3 {
+  display: table-cell !important;
+vertical-align: middle !important;
+}
+
 
 
 @media (max-width: 765px) {
@@ -66,12 +75,18 @@
     width: 300px;
     margin: 20px 0px;
   }
+  .cartItem img {
+    width: 180px;
+  }
   .cartItem .description {
     font-size: 20px;
   }
   .checkout button{
     display: flex;
     flex-direction: row;
+  }
+  .checkout button h3{
+    text-align: center !important;
   }
   .emptycart{
     font-size: 28px;
