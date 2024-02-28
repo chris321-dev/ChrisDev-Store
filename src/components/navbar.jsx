@@ -5,7 +5,6 @@ import "./navbar.css";
 
 export const Navbar = () => {
   return (
-<<<<<<< HEAD
     <div>
       <header id="header" className="fixed-top d-flex align-items-center header-transparent">
         <div className="container d-flex justify-content-between align-items-center">
@@ -38,16 +37,6 @@ export const Navbar = () => {
           </nav>
           {/* Navbar end  */}
         </div></header>
-=======
-    <div className="navbar">
-      <div className="links">
-        <Link to="/ChrisDev-Store"> Shop </Link>
-        <Link to="/contact"> Contact </Link>
-        <Link to="/cart">
-          <ShoppingCart size={32} />
-        </Link>
-      </div>
->>>>>>> 74faa43965f12d8b4b53ba4e8479fdcbf63785af
     </div>
     
   );
