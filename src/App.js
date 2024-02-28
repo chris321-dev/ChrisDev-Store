@@ -14,12 +14,8 @@ function App() {
         <Router>
           <Navbar />
           <Routes>
-<<<<<<< HEAD
             <Route path="/ChrisDev-Store" element={<Home />} />
             <Route path="/shop" element={<Shop />} />
-=======
-            <Route path="/ChrisDev-Store" element={<Shop />} />
->>>>>>> 74faa43965f12d8b4b53ba4e8479fdcbf63785af
             <Route path="/contact" element={<Contact />} />
             <Route path="/cart" element={<Cart />} />
           </Routes>
