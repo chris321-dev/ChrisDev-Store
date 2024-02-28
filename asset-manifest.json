@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/ChrisDev-Store/static/css/main.cd6dcafe.css",
-    "main.js": "/ChrisDev-Store/static/js/main.c3b77cc5.js",
+    "main.css": "/ChrisDev-Store/static/css/main.b139cd26.css",
+    "main.js": "/ChrisDev-Store/static/js/main.454736c1.js",
+    "static/media/bannerL_1920x1280 (1).jpg": "/ChrisDev-Store/static/media/bannerL_1920x1280 (1).e62bdcd3931bf5699afa.jpg",
     "static/media/9.jpg": "/ChrisDev-Store/static/media/9.f93cc88586ae1f4da92c.jpg",
     "static/media/5.jpg": "/ChrisDev-Store/static/media/5.98bd6b678ea6f3a7941f.jpg",
     "static/media/4.jpg": "/ChrisDev-Store/static/media/4.ff4aa30985296c317ad1.jpg",
@@ -9,11 +10,11 @@
     "static/media/3.jpg": "/ChrisDev-Store/static/media/3.2dd4216c017d19dd52ce.jpg",
     "static/media/1.jpg": "/ChrisDev-Store/static/media/1.2376fb0de4f293c191e3.jpg",
     "index.html": "/ChrisDev-Store/index.html",
-    "main.cd6dcafe.css.map": "/ChrisDev-Store/static/css/main.cd6dcafe.css.map",
-    "main.c3b77cc5.js.map": "/ChrisDev-Store/static/js/main.c3b77cc5.js.map"
+    "main.b139cd26.css.map": "/ChrisDev-Store/static/css/main.b139cd26.css.map",
+    "main.454736c1.js.map": "/ChrisDev-Store/static/js/main.454736c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.cd6dcafe.css",
-    "static/js/main.c3b77cc5.js"
+    "static/css/main.b139cd26.css",
+    "static/js/main.454736c1.js"
   ]
 }
