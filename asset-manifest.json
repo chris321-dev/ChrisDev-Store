@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ChrisDev-Store/static/css/main.2c5c1a97.css",
+    "main.css": "/ChrisDev-Store/static/css/main.078ead7e.css",
     "main.js": "/ChrisDev-Store/static/js/main.454736c1.js",
     "static/media/bannerL_1920x1280 (1).jpg": "/ChrisDev-Store/static/media/bannerL_1920x1280 (1).e62bdcd3931bf5699afa.jpg",
     "static/media/9.jpg": "/ChrisDev-Store/static/media/9.f93cc88586ae1f4da92c.jpg",
@@ -10,11 +10,11 @@
     "static/media/3.jpg": "/ChrisDev-Store/static/media/3.2dd4216c017d19dd52ce.jpg",
     "static/media/1.jpg": "/ChrisDev-Store/static/media/1.2376fb0de4f293c191e3.jpg",
     "index.html": "/ChrisDev-Store/index.html",
-    "main.2c5c1a97.css.map": "/ChrisDev-Store/static/css/main.2c5c1a97.css.map",
+    "main.078ead7e.css.map": "/ChrisDev-Store/static/css/main.078ead7e.css.map",
     "main.454736c1.js.map": "/ChrisDev-Store/static/js/main.454736c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c5c1a97.css",
+    "static/css/main.078ead7e.css",
     "static/js/main.454736c1.js"
   ]
 }
