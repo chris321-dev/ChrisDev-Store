@@ -97,19 +97,19 @@ body{
   }
   .shopTitle {
     font-size: 32px;
-    margin-top: 50px;
+/*     margin-top: 50px; */
   }
 }
 
 @media (max-width: 455px) {
   .shopTitle {
     font-size: 25px;
-    margin-top: 35px;
+/*     margin-top: 35px; */
     margin-bottom: 10px;
   }
-  .shopTitle h1 {
+/*   .shopTitle h1 {
     margin: 10px;
-  }
+  } */
   .products {
     grid-template-columns: 1fr 1fr;
   }
