@@ -1,10 +1,16 @@
 .cart {
-  margin-top: 85px;
+  margin-top: 5px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  color: #DD614A;
+  color: #e68064;
+}
+
+.cart h1 {
+  margin-top: 85px;
+  font-weight: bolder;
+  color: #e68064 !important;
 }
 
 .cartItem {
@@ -44,13 +50,9 @@
   cursor: pointer;
 }
 
+
 .checkout button:hover {
   background: #f05236;
-}
-
-.checkout button h3 {
-  display: table-cell !important;
-vertical-align: middle !important;
 }
 
 
@@ -85,9 +87,6 @@ vertical-align: middle !important;
   .checkout button{
     display: flex;
     flex-direction: row;
-  }
-  .checkout button h3{
-    text-align: center !important;
   }
   .emptycart{
     font-size: 28px;
